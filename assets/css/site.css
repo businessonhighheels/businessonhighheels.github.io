@@ -1,0 +1,12 @@
+#mainnavbar a {
+  color: white; }
+
+#mainpicture {
+  padding-right: 0;
+  padding-left: 0;
+  opacity: 0.75;
+  background-image: url(../../assets/img/business_woman/office-620822.jpg);
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  background-size: cover; }
